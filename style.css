@@ -1,0 +1,111 @@
+body {
+	background-color: #eee;
+	margin: 0;
+}
+
+h1,
+p {
+	font-family: helvetica;
+}
+
+#hero {
+	background: url(img/jason-leung-Xaanw0s0pMk-unsplash.jpg);
+	/*background-size: 100% auto;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding: 40px 200px;
+}
+
+.overlay {
+	background: rgba(0, 0, 0, 0.4);
+}
+
+#pagetitle {
+	font-weight: normal;
+	text-align: center;
+	text-transform: lowercase;
+	font-size: 60px;
+	letter-spacing: 3px;
+	font-family: Palatino Linotype;
+	color: #fff;
+	margin: 0;
+}
+
+#subhead {
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	margin: 10px 0 0 0;
+	padding: 20px
+}
+
+.container {
+	box-sizing: 800px;
+	background: #fff;
+	padding: 20px;
+	margin: 20px;
+	border: 5px solid #000;
+	width: 80%;
+	/*width: 800px;*/
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5)
+}
+
+.nm {
+	margin: 0;
+	text-shadow: 10px 10px 3px #aaf
+}
+
+#wt {
+	width: 50%;
+	background: #ccc;
+	max-width: 200px;
+	min-width: 100px;
+
+}
+
+#wtp {}
+
+.dib {
+	background: #ccc;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top
+}
+
+.
+
+/*dt{
+	width: 10000px;
+	background: #f00;
+	padding: 20px;
+	margin: 10px;
+	
+}
+.container2 {
+	text-align: center;
+}
+
+.dib2 {
+	display: inline-block;
+	width: %;
+	margin: 10px;
+	text-align: center;
+	background: #AAA;
+}
+.dib3 {
+	display: inline-block;
+	width: 31%;
+		
+	margin: 10px;
+	text-align: center;
+	background: #AAA;
+}
+.dib4{
+		display: inline-block;
+	width: 65%;
+	margin: 10px;
+	text-align: center;
+	background: #AAA;
+}*/
